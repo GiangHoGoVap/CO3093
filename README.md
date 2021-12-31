@@ -1,1 +1,1 @@
-# CO3093
+# CO3093 - Computer Networks
